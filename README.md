@@ -46,8 +46,8 @@ In the repository settings, enable GitHub Pages and select the `main` branch wit
 Clone and preview the project:
 
 ```bash
-git clone https://github.com/senajidavid-ctrl/MMUST-SHOP.git
-cd MMUST-SHOP
+git clone https://github.com/wisejosiah92-alt/MMUST-boutique.git
+cd MMUST-boutique
 python -m http.server 8000
 ```
 
